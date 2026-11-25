@@ -47,8 +47,9 @@ R&D Institute of Science and Technology.
 
 ## Contact
 
-Email: YOUR_EMAIL@gmail.com
+Email: saiganeshnem@gmail.com
 
-LinkedIn: YOUR_LINKEDIN_URL
+LinkedIn: www.linkedin.com/in/sai-ganesh-a90233247
 
-GitHub: YOUR_GITHUB_URL
+
+GitHub: https://github.com/saiganesh7445/Sai-Ganesh-Nemalapuri
